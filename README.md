@@ -1,1 +1,1 @@
-# Blurry-Loading
+https://chaithra-poojary.github.io/Blurry-Loading/
